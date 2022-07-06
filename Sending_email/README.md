@@ -1,0 +1,1 @@
+This project sends an email the specified user.

@@ -1,0 +1,1 @@
+This project checks if the provided password is present in any data breaches.

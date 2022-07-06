@@ -1,0 +1,1 @@
+This project performs image conversion from one format to another. The default value converts a provided image to png format.

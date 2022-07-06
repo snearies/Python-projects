@@ -1,0 +1,1 @@
+This project creates a twitter bot that likes tweets that contain a specific keyword. It also follows any provided twitter handle.

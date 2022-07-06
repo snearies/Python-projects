@@ -1,0 +1,1 @@
+This project scrapes data from any website. By default, it scrapes data from https://news.ycombinator.com.
